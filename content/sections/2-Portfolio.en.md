@@ -1,6 +1,6 @@
 ---
-anchor: "Portfolio"
-header: "Portfolio"
+anchor: "Our offer"
+header: "Our offer"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 portfolios: [
   {

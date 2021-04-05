@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Centro de Estudios Integrales"
 menuText: "Menu "
 ---

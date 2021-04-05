@@ -1,6 +1,6 @@
 ---
-anchor: "Acerca de"
-header: "Acerca de"
+anchor: "Acerca"
+header: "Acerca"
 subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
 timeline: [
   {

@@ -1,6 +1,6 @@
 ---
 anchor: "Equipo"
-header: "Equipo"
+header: "Nuestro equipo"
 subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
 content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
 teamMember: [
