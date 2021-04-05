@@ -156,8 +156,8 @@ IndexPage.propTypes = {
 
 IndexPage.defaultProps = {
   pageContext: {
-    langKey: "en",
-    defaultLang: "en",
+    langKey: "es_mx",
+    defaultLang: "es_mx",
     langTextMap: {},
   },
 };

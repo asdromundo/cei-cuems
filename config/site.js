@@ -1,21 +1,21 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "CEI-CUEMS: Centro de Estudios Integrales",
   keywords: [
-    "gatsby",
+    "cuems",
+    "cei",
+    "preparatoria",
+    "escuela",
     "gatsbyjs",
-    "landing page",
-    "landing",
-    "i18n",
     "eslint",
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
-  trackingId: "UA-119418003-5",
-  defaultLang: "en",
+  description: "Centro de Estudios Integrales: Preparación y desarrollo profesional",
+  author: "@asdromundo",
+  trackingId: "G-LJEHX0ERY5",
+  defaultLang: "es",
   langTextMap: {
     en: "English",
-    ja: "日本語",
+    es: "Español"
   },
 };
