@@ -28,6 +28,7 @@ export const query = graphql`
     }
     allMarkdownRemark(
       filter: { fields: { langKey: { eq: $langKey } } }
+      sort: { order: ASC, fields: [fields___directoryName, fields___fileName] }
     ) {
       nodes {
         frontmatter {
@@ -121,7 +122,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
 
   return (
     <>
-      <SEO lang={langKey} title="CEI" keywords={keywords} description={description} />
+      <SEO lang={langKey} title="" keywords={keywords} description={description} />
       <Navbar
         anchors={anchors}
         frontmatter={navBarNode.frontmatter}

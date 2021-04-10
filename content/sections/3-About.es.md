@@ -1,7 +1,7 @@
 ---
 anchor: "Acerca"
 header: "Acerca"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+subheader: "Cónoce nuestra historia, y se parte de ella"
 timeline: [
   {
     imageFileName: "about/1.jpg",
@@ -28,7 +28,7 @@ timeline: [
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "Se parte\n de nuestra historia"
   }
 ]
 ---
