@@ -1,5 +1,5 @@
 ---
-header: "Centro de Estudios Integrales"
+header: "Centro de Educación Integral"
 subheader: "¡Bienvenidos a nuestra institución!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"

@@ -28,7 +28,6 @@ export const query = graphql`
     }
     allMarkdownRemark(
       filter: { fields: { langKey: { eq: $langKey } } }
-      sort: { order: ASC, fields: [fields___directoryName, fields___fileName] }
     ) {
       nodes {
         frontmatter {

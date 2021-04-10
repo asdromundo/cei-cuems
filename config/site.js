@@ -1,16 +1,15 @@
 module.exports = {
-  title: "CEI-CUEMS: Centro de Estudios Integrales",
+  title: "CEI-CUEMS: Centro de Educación Integral",
+  shortTitle: "Centro de Educación Integral",
   keywords: [
     "cuems",
     "cei",
     "preparatoria",
     "escuela",
     "gatsbyjs",
-    "eslint",
-    "bootstrap",
-    "startbootstrap-agency",
+
   ],
-  description: "Centro de Estudios Integrales: Preparación y desarrollo profesional",
+  description: "Centro de Educación Integral: Preparación y desarrollo profesional",
   author: "@asdromundo",
   trackingId: "G-LJEHX0ERY5",
   defaultLang: "es",

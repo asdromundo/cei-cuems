@@ -1,4 +1,4 @@
 ---
-brand: "Centro de Estudios Integrales"
+brand: "Centro de Educación Integral"
 menuText: "Menú"
 ---
