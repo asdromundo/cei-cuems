@@ -6,7 +6,7 @@ services: [
   {
     iconName: "PuzzlePieceIcon",
     header: "Misión",
-    content: "Proporcionar una educación integral, crítica y autogestiva a nuestro alumnado, con calidad humanista, sustentable e innovadora, capaz de propiciar la armonía,la convivencia, y el desarrollo desde su entorno social inmediato y trascendiendo los retos actuales de un mundo globalizado."
+    content: "Proveer una educación integral, crítica y autogestiva a nuestro alumnado, con calidad humanista, sustentable e innovadora, capaz de propiciar la armonía,la convivencia, y el desarrollo desde su entorno social inmediato y trascendiendo los retos actuales de un mundo globalizado."
   },
   {
     iconName: "EyeIcon",

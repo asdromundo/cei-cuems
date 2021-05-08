@@ -1,20 +1,17 @@
 ---
 clients: [
   {
-    imageFileName: "logos/envato.jpg",
-    href: "#!"
+    imageFileName: "logos/uaem.png",
+    href: "https://www.uaem.mx"
   },
   {
-    imageFileName: "logos/designmodo.jpg",
-    href: "#!"
+    imageFileName: "logos/sep.png",
+    href: "https://www.sep.gob.mx"
   },
   {
-    imageFileName: "logos/themeforest.jpg",
+    imageFileName: "logos/edomex.png",
     href: "#!"
   },
-  {
-    imageFileName: "logos/creative-market.jpg",
-    href: "#!"
-  }
+
 ]
 ---
