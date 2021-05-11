@@ -10,7 +10,11 @@ clients: [
   },
   {
     imageFileName: "logos/edomex.png",
-    href: "#!"
+    href: "https://edomex.gob.mx/"
+  },
+  {
+    imageFileName: "logos/cicemark.png",
+    href: "https://cicemark.com.mx/"
   },
 
 ]

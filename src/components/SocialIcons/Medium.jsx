@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import CircleIcon from "components/CircleIcon";
 
 const Medium = ({ userName }) => (
-  <CircleIcon href={`https://medium.com/@${userName}`} iconName="MediumIcon" />
+  <CircleIcon href={`https://instagram.com/@${userName}`} iconName="InstagramIcon" />
 );
 
 Medium.propTypes = {
